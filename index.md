@@ -6,9 +6,9 @@ In my day to day work I am building enterprise software at various projects in G
 
 ## Thesis
 
-My [bachelor thesis](/pdfs/bachelor-thesis.pdf) (written in German) covers an experimental analysis of an implementation of a core algorithms to solve the knapsack problem. 
-
 My [master thesis](/pdfs/master-thesis.pdf) analyzes different variants of the incremental knapsack problem. The natural definition of the problem is unsolvable, which is explained in the beginning. Thereafter I introduce an additional constraint to the problem definition such that it becomes solveable. Then I give algorithms which solve that problem as well as some lower bounds for it.
+
+My [bachelor thesis](/pdfs/bachelor-thesis.pdf) (written in German) covers an experimental analysis of an implementation of a core algorithms to solve the knapsack problem. 
 
 ## Project Euer
 
