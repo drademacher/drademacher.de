@@ -1,5 +1,5 @@
 ---
-title: Danny Rademacher
+title: Danny-Marvin Rademacher
 description: A website about me and things I do
 ---
 
