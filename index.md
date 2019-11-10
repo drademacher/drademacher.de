@@ -1,6 +1,6 @@
 ---
 title: Danny Rademacher
-description: A personal website
+description: A website about me and other things
 ---
 
 ## About
