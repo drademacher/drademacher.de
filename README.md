@@ -1,6 +1,6 @@
 ## Danny Rademacher
 
-Hello.
+Welcome. I am a Computer Scientists and Software Engeneer from Germany.
 
 ### Projekts
 
@@ -17,5 +17,5 @@ My [Master Thesis](/pdfs/master-thesis.pdf) analyzes different variants of the i
 
 You can find me online at
 
-- https://www.linkedin.com/in/drademacher
-- https://github.com/drademacher
+- [LinkedIn](https://www.linkedin.com/in/drademacher)
+- [Github](https://github.com/drademacher)
