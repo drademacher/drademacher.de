@@ -1,3 +1,8 @@
+---
+title: [The title of your site]
+description: [A short description of your site's purpose]
+---
+
 ## About
 
 Welcome. I am a Computer Scientists and Software Engineer from Germany.
