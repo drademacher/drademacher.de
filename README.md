@@ -1,3 +1,5 @@
+# Danny Rademacher
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/drademacher/drademacher.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -39,3 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Thesis
 
 [Bachelor Thesis](/pdfs/bachelor-thesis.pdf)
+[Master Thesis](/pdfs/master-thesis.pdf)
