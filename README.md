@@ -1,6 +1,6 @@
 ## Danny Rademacher
 
-Welcome. I am a Computer Scientists and Software Engeneer from Germany.
+Welcome. I am a Computer Scientists and Software Engineer from Germany.
 
 ### Projekts
 
