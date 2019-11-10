@@ -1,7 +1,7 @@
 # Danny Rademacher
-## Personal
+No idea
 
-### About
+## About
 
 Welcome. I am a Computer Scientists and Software Engineer from Germany.
 
