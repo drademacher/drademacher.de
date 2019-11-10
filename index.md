@@ -1,6 +1,4 @@
 ---
-title: Danny Rademacher
-description: A website about me and things I do
 ---
 
 ## About
