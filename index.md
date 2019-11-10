@@ -25,6 +25,7 @@ From time to time I enjoy solving problems from Project Euler. Project Euler is 
 
 * [JPS Implementation](https://github.com/drademacher/lab-jump-point-search) is an implementation of the *Jump Point Search* algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like *Dijkstra* or *A\* Search*.
 * [Lion and Men](https://github.com/drademacher/lab-computational-geometry) is a visualization of two different kind of problems of the Lion and Men family. You can run the applet and learn the functionality by examing the visualization carefully.
+* [Not Space Invaders](https://github.com/Tondorf/not-space-invaders) is a simple game which is like Space Invaders, but not exactly. The idea was inspired by (Not Tetris)[https://stabyourself.net/nottetris2].
 
 ## Contact
 
