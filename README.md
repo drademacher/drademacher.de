@@ -16,8 +16,7 @@ From time to time I enjoy solving problems from Project Euler. Project Euler is 
 
 ### Other Projekts
 
-To be added
-
+* [JPS Implementation](https://github.com/drademacher/lab-jump-point-search) is an implementation of the *Jump Point Search* algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like *Dijkstra* or *A\* Search*
 
 ### Contact
 
