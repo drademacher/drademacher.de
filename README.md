@@ -16,11 +16,12 @@ From time to time I enjoy solving problems from Project Euler. Project Euler is 
 
 ### Other Projekts
 
-* [JPS Implementation](https://github.com/drademacher/lab-jump-point-search) is an implementation of the *Jump Point Search* algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like *Dijkstra* or *A\* Search*
+* [JPS Implementation](https://github.com/drademacher/lab-jump-point-search) is an implementation of the *Jump Point Search* algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like *Dijkstra* or *A\* Search*.
+* [Lion and Men] is a visualization of two different kind of problems of the Lion and Men family. You can run the applet and learn the functionality by examing the visualization carefully.
 
 ### Contact
 
 You can find me online at
 
-- [LinkedIn](https://www.linkedin.com/in/drademacher)
-- [Github](https://github.com/drademacher)
+* [LinkedIn](https://www.linkedin.com/in/drademacher)
+* [Github](https://github.com/drademacher)
