@@ -1,6 +1,8 @@
 ## Danny Rademacher
 
-Welcome. I am a Computer Scientists and Software Engineer from Germany. In my day to day work I am building enterprise software at various projects in Germany. Here I mainly use Java and Spring Boot at the backend and JavaScript with different libaries at the frontend.
+Welcome. I am a Computer Scientists and Software Engineer from Germany.
+
+In my day to day work I am building enterprise software at various projects in Germany. Here I mainly use Java and Spring Boot at the backend and JavaScript with different libaries at the frontend.
 
 ### Thesis
 
