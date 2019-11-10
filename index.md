@@ -1,6 +1,6 @@
 ---
-title: [The title of your site]
-description: [A short description of your site's purpose wtf]
+title: Danny Rademacher
+description: A personal website
 ---
 
 ## About
