@@ -10,7 +10,7 @@ My [master thesis](/pdfs/master-thesis.pdf) analyzes different variants of the i
 
 My [bachelor thesis](/pdfs/bachelor-thesis.pdf) (written in German) covers an experimental analysis of an implementation of a core algorithms to solve the knapsack problem. 
 
-## Project Euer
+## Project Euler
 
 From time to time I enjoy solving problems from Project Euler. Project Euler is a collection of computational problems intended to be solved with computer programs. My solutions can be found at the [Github repository](https://github.com/drademacher/kotlin-euler), but it is highly recommanded to not copy & run the code of my solutions but to solve the problem yourself.
 
