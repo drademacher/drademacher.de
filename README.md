@@ -1,6 +1,6 @@
 ## Danny Rademacher
 
-Welcome. I am a Computer Scientists and Software Engineer from Germany.
+Welcome. I am a Computer Scientists and Software Engineer from Germany. In my day to day work I am building enterprise software at various projects in Germany. Here I mainly use Java and Spring Boot at the backend and JavaScript with different libaries at the frontend.
 
 ### Thesis
 
@@ -17,7 +17,7 @@ From time to time I enjoy solving problems from Project Euler. Project Euler is 
 ### Other Projekts
 
 * [JPS Implementation](https://github.com/drademacher/lab-jump-point-search) is an implementation of the *Jump Point Search* algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like *Dijkstra* or *A\* Search*.
-* [Lion and Men] is a visualization of two different kind of problems of the Lion and Men family. You can run the applet and learn the functionality by examing the visualization carefully.
+* [Lion and Men](https://github.com/drademacher/lab-computational-geometry) is a visualization of two different kind of problems of the Lion and Men family. You can run the applet and learn the functionality by examing the visualization carefully.
 
 ### Contact
 
