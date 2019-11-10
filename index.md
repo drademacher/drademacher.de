@@ -1,5 +1,4 @@
 # Danny Rademacher
-No idea
 
 ## About
 
