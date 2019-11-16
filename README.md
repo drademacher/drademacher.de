@@ -1,2 +1,2 @@
 # drademacher.de
-https://www.drademacher.de/
+https://drademacher.de/
