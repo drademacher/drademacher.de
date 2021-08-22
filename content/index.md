@@ -6,11 +6,6 @@ Hello. I am a Computer Scientists and Software Engineer from Germany.
 
 In my day to day work I am building enterprise software at various projects in Germany. Here I mainly use Java and Spring Boot at the backend and JavaScript with different libaries at the frontend.
 
-**Contact**
-
-* [LinkedIn](https://www.linkedin.com/in/drademacher)
-* [Github](https://github.com/drademacher)
-
 ## Programming Projects
 
 * [JPS Implementation](https://github.com/drademacher/lab-jump-point-search) is an implementation of the *Jump Point Search* algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like *Dijkstra* or *A\* Search*.
@@ -28,3 +23,8 @@ My [bachelor thesis](/bachelor-thesis.pdf) (written in German) covers an experim
 From time to time I enjoy solving problems from Project Euler. Project Euler is a collection of computational problems intended to be solved with computer programs. My solutions can be found at the [Github repository](https://github.com/drademacher/kotlin-euler), but it is highly recommanded to not copy & run the code of my solutions but to solve the problem yourself.
 
 ![Project Euler Stats](https://projecteuler.net/profile/dhaunac.png)
+
+### Contact
+
+* [LinkedIn](https://www.linkedin.com/in/drademacher)
+* [Github](https://github.com/drademacher)
