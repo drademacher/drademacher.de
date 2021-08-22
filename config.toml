@@ -44,9 +44,3 @@ tocopen = false
   hidden = true
   hiddenInList = true
   hiddenInSingle = true
-
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 10
