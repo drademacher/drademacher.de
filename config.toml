@@ -1,5 +1,5 @@
 baseURL = "http://drademacher.de/"
-title = "About Me And Things I Do"
+title = "Danny Rademacher"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -15,7 +15,6 @@ minifyOutput = true
 env = "production"
 title = "About Me And Things I Do"
 description = ""
-author = "Danny Rademacher"
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
