@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Danny Rademacher</title>
+    <link>http://drademacher.de/</link>
+    <description>Recent content on Danny Rademacher</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://drademacher.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me And Things I Do</title>
+      <link>http://drademacher.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://drademacher.de/</guid>
+      <description>Hello. I am a Computer Scientists and Software Engineer from Germany.
+In my day to day work I am building enterprise software at various projects in Germany. Here I mainly use Java and Spring Boot at the backend and JavaScript with different libaries at the frontend.
+Programming Projects JPS Implementation is an implementation of the Jump Point Search algorithm. This solves the shortest path on rectangle grids with obstacles and is much faster than algorithms like Dijkstra or A* Search.</description>
+    </item>
+    
+  </channel>
+</rss>
